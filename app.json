@@ -1,5 +1,6 @@
 {
     "name": "UNTSONGBOT",
+     "logo": "https://telegra.ph/file/d56399e80bebb2133e199.jpg",
     "description": "Grabs song from yt and sends it to telegram",
     "env": {
         "API_ID": {
