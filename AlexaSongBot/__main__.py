@@ -48,7 +48,7 @@ InlineKeyboardButton(
                     )
                 ]
             ]
-        )
+        ) ]
     else:
         btn = None
     await message.reply(start_text.format(name, user_id), reply_markup=btn)
