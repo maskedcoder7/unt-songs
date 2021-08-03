@@ -1,36 +1,8 @@
 # UNT SONG BOT
-## FASTEST AND ULITY MP3 SONG DOWNLOADER
+## FASTEST AND QULITY MP3 SONG DOWNLOADER
 <p align="center">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
-  <img src="">
+  <img src="https://telegra.ph/file/a8da04114241ad1088e93.jpg">
+   
 </p>
 
 
@@ -40,4 +12,5 @@ The easiest way to deploy this Song Bot
 
 
 
+[DEVELOPER](t.me/your_handler)
 
