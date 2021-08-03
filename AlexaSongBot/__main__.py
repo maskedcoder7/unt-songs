@@ -11,9 +11,9 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-ITS UNT SONG BOT U CAN CALL ME AS LAY
+I'm Alexa 🤗
 Just send me the song name you want to download.
-Eg: ```/song otila```
+Eg: ```/song Faded Alan Walker```
 """
 
 owner_help = """
@@ -35,20 +35,11 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🎁 Source Code🎁", url="https://github.com/maskedcoder7/unt-songs"
-                    )
-                ]
- [
-                    InlineKeyboardButton(
-                        text="🌹JOIN UNT SONGS🌹", url="t.me/untsongs"
-                    )
-                ]
-InlineKeyboardButton(
-                        text="CREATOR💜", url="t.me/YOUR_HANDLER"
+                        text="LAY SOURCE CODE🔮", url="https://t.me/your_handler/15"
                     )
                 ]
             ]
-        ) ]
+        )
     else:
         btn = None
     await message.reply(start_text.format(name, user_id), reply_markup=btn)
@@ -63,7 +54,7 @@ async def help(client, message):
     text = "Syntax: /song song name"
     await message.reply(text)
 
-OWNER_ID.append(1587091205)
+OWNER_ID.append(1406657231)
 app.start()
-LOGGER.info("lay is online buddy.")
+LOGGER.info("LAY IS HERE BUDDY.")
 idle()
